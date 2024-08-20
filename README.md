@@ -1,1 +1,1 @@
-# pet-app
+# pets-app
